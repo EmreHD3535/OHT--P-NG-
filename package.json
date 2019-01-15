@@ -1,0 +1,14 @@
+{
+  "name": "oht",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "Node bot.js"
+  },
+  "author": "OyunHackTeam",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
