@@ -77,4 +77,4 @@ if (msg.content === 'AktifOl') {
   }
 });
 
-client.login('NTMzNzQ5MjE0MjA4MDY1NTY2.Dx0pTQ.gbJD27Wx3iRPIhbMxWu0Tu9Yaj0');
+client.login('process.env.BOT_TOKEN');
